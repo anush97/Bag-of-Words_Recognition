@@ -1,13 +1,3 @@
-'''
-The Leung-Malik (LM) Filter Bank, implementation in python
-
-T. Leung and J. Malik. Representing and recognizing the visual appearance of
-materials using three-dimensional textons. International Journal of Computer
-Vision, 43(1):29-44, June 2001.
-
-Reference: http://www.robots.ox.ac.uk/~vgg/research/texclass/filters.html
-'''
-
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
